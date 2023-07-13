@@ -1,0 +1,15 @@
+.site-header {
+    height: 100px;
+    width: 80%;
+    margin: auto;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-right {
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+}
